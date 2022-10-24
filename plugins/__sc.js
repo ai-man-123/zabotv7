@@ -1,5 +1,5 @@
 let handler = (t) => {
-    t.reply('buka youtube terus ketik *ZaBot Official*')
+    t.reply('https://github.com/ai-man-123')
 }
 
 handler.command = ['sc']
